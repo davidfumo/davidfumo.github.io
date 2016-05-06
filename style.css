@@ -1,0 +1,28 @@
+body {
+	font-size: 16px;
+}
+
+.wrapper {
+	text-align: center;
+	margin-top: 40vh;
+}
+
+.about h1 {
+	font-weight: bold;
+}
+
+.about p {
+	font-size: 18px;
+}
+
+.about a{
+	text-decoration: none;
+	color: black;
+	transition: text-decoration ease 0.3s linear;
+	-webkit-transition: text-decoration ease 0.3s linear; 
+}
+
+.about a:hover {
+	text-decoration: underline;
+	color: blue;
+}
