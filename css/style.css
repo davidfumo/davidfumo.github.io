@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   padding: 0;
-  height: 80px;
+  height: 110px;
   transition: all 0.5s;
   z-index: 99999;
   background: #fff;
@@ -240,7 +240,13 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: -12px !important
 }
 */
-
+@media (min-width: 1187px) and (max-width: 1228px) {
+    .mozafleet-logo {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      height: 85px !important;
+  }
+}
 @media (max-width: 768px) {
   #header {
     padding: 10px 0;
