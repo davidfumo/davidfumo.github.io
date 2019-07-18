@@ -1018,7 +1018,7 @@ visibility: hidden;
 ========================================================*/
 #contact {
 /*    margin-top: 60px;*/
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
     background: #fbfbfb;
 }
 #contact .mozafleet-form {
