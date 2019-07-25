@@ -460,7 +460,7 @@ h1, h2, h3, h4, h5, h6 {
   }
     .moenergy-logo-mobile {
         display: inline;
-        height: 42px;
+        height: 42px !important;
     }
 }
 
@@ -479,6 +479,7 @@ h1, h2, h3, h4, h5, h6 {
     .mozafleet-logo {
         margin-top: 0px;
         margin-bottom: 10px;
+        height: 42px !important;
     }
 }
 
