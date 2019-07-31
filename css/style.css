@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 60px;
 }
 /*Border bottom parallax*/
-.item-category .border-item div {
+/* .item-category .border-item div {
     height: 20px;
     bottom: 0;
     left: 0;
@@ -202,7 +202,9 @@ h1, h2, h3, h4, h5, h6 {
     background: url(../img/border.svg) repeat-x 100% 100%;
     -webkit-transform: rotate(180deg);
             transform: rotate(180deg);
-}
+} */
+
+
 /*
 #header #logo h1 {
   font-size: 28px;
